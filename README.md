@@ -1,0 +1,1 @@
+基于python的cline插件接入deepseek生成的计算24点的软件
